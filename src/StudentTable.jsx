@@ -244,25 +244,25 @@ const StudentTable = () => {
                       key={student.id}
                       className="border-b-[1px] border-[rgba(0,0,0,0.2)]"
                     >
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {index + 1}
                       </td>
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {student.surname}
                       </td>
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {student.firstname}
                       </td>
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {student.age}
                       </td>
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {student.gender}
                       </td>
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {student.level}
                       </td>
-                      <td className="p-2 text-[#343434] capitalize">
+                      <td className="p-2 text-[#343434] text-center capitalize">
                         {student.state}
                       </td>
                       <td className="p-2 text-center">
