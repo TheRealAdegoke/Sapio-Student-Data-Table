@@ -189,7 +189,7 @@ const StudentTable = () => {
           </div>
         </div>
 
-        <div className="bg-white my-4 rounded-[5px] px-5 py-8 h-[300px] overflow-y-auto">
+        <div className="bg-white my-4 rounded-[5px] px-5 py-8 h-[300px] overflow-y-auto custom-scrollbar">
           <div className="mb-3 flex justify-end font-medium">
             <button
               className="cursor-pointer"
